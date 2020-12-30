@@ -1,3 +1,7 @@
+#+begin_quote
+This is not a final design of the device. Real measurements are not done yet. Current representation is only a simple prototype
+#+end_quote
+
 * Roboworm
 This is Roboworm. This device can be used at *search and rescue efforts*. Device's worm-like form can take adventages in very narrow spaces and tunnel like environments. To make it move like a worm, I found a small mechanical device which can work as a *vertebra* of the worm.
 
@@ -16,3 +20,11 @@ After that you can easily change the shape of each vertebra with a simple DC mot
 [[./mechanics/img/07-example-movement.png]]
 with the combination of those vertebras the whole system will be able to move like a real worm. here is the shape when the device is totally shrinked
 [[./mechanics/img/04-stretched-spine.png]]
+** Final Form
+Each vertebra will be embedded in a metal ring for stabilizaiton. Whole device will be covered with an elastic material. I'm not sure which material should be used yet but here is how the device with stretched vertebras will be
+#+ATTR_ORG: :width 900
+[[./mechanics/img/final-alpha1.png]]
+#+ATTR_ORG: :width 900
+[[./mechanics/img/final-alpha2.png]]
+#+ATTR_ORG: :width 900
+[[./mechanics/img/final-alpha3.png]]
