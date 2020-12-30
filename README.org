@@ -1,0 +1,18 @@
+* Roboworm
+This is Roboworm. This device can be used at *search and rescue efforts*. Device's worm-like form can take adventages in very narrow spaces and tunnel like environments. To make it move like a worm, I found a small mechanical device which can work as a *vertebra* of the worm.
+
+This vertebra consists of two metal plates which act like scissors. these plates can get closer and further away by turning the mill in front of them. Here is how it looks when two plates are far away from each other
+#+ATTR_ORG: :width 700
+[[./mechanics/img/01-stretched-vertebra.png]]
+ By turning the mill in the middle clockwise, plates will get closer.
+[[./mechanics/img/02-free-vertebra.png]]
+and closer..
+[[./mechanics/img/03-loose-vertebra.png]]
+scissors-like plates are moving freely by using a *roller* between them. and the roller's diameter is exactly same as the rotating mill. this will let us to combine several vertebras together like this:
+[[./mechanics/img/05a-free-spine.png]]
+[[./mechanics/img/05b-free-spine.png]]
+After that you can easily change the shape of each vertebra with a simple DC motor and get shapes like these:
+[[./mechanics/img/06-loose-spine.png]]
+[[./mechanics/img/07-example-movement.png]]
+with the combination of those vertebras the whole system will be able to move like a real worm. here is the shape when the device is totally shrinked
+[[./mechanics/img/04-stretched-spine.png]]
